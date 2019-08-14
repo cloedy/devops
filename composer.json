@@ -4,7 +4,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "cloedy\\": "src/"
+      "cloedy\\": "app/"
     },
     "files": [
       "helpers.php"
