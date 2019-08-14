@@ -1,6 +1,6 @@
 <?php
 
-use cloedy\TestCase;
+use C\TestCase;
 
 
 class OrderTest extends TestCase

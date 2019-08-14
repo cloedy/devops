@@ -5,7 +5,7 @@
  * Date: 2019/8/14
  * Time: 15:23
  */
-namespace cloedy;
+namespace C;
 
 class TestCase extends \PHPUnit\Framework\TestCase
 {

@@ -10,10 +10,10 @@
          stopOnFailure="false">
     <testsuites>
         <testsuite name="loan">
-            <directory suffix="Test.php">src/loan</directory>
+            <directory suffix="Test.php">app/loan</directory>
         </testsuite>
         <testsuite name="vehicle">
-            <directory suffix="Test.php">src/vehicle</directory>
+            <directory suffix="Test.php">app/vehicle</directory>
         </testsuite>
     </testsuites>
 </phpunit>
