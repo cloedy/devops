@@ -1,0 +1,13 @@
+{
+  "require-dev": {
+    "cloedy/tests": "^1.0"
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "cloedy\\": "src/"
+    },
+    "files": [
+      "helpers.php"
+    ]
+  }
+}
